@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394207191276",
+    "firebase_url": "https://gasthanhhuy.firebaseio.com",
+    "project_id": "gasthanhhuy",
+    "storage_bucket": "gasthanhhuy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394207191276:android:a839229fffce1897d385c9",
+        "android_client_info": {
+          "package_name": "geographer.com.example.thanhhuyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394207191276-n34dis17grn9tj7o0q9855k39ls67mmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2vlM3YAPHyGbPlx0b3sz9sX3V0N6i784"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394207191276-n34dis17grn9tj7o0q9855k39ls67mmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
