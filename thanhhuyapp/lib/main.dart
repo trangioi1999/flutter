@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:thanhhuyapp/Screens/AddUser.dart';
+import 'package:thanhhuyapp/Screens/welcom_screen.dart';
 
 import 'Screens/addUserActitvity.dart';
 
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
 //          appBar: AppBar(title: Text("Gas Thành huy",),
 //            centerTitle: true,
 //          ),
-        body: AddUser(
+        body: WelcomScreen(
         ),
       ),
     );

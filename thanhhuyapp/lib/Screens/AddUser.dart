@@ -1,7 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_cupertino_date_picker/flutter_cupertino_date_picker.dart';
-
 class AddUser extends StatefulWidget {
   @override
   _AddUserState createState() => _AddUserState();
@@ -38,7 +36,7 @@ class _AddUserState extends State<AddUser> {
               height: 300,
               decoration: BoxDecoration(
                   image: DecorationImage(
-                      image: AssetImage('assets/background.png'),
+                      image: AssetImage('assets/images/background.png'),
                       fit: BoxFit.fill)),
               child: Stack(
                 children: <Widget>[
@@ -49,7 +47,7 @@ class _AddUserState extends State<AddUser> {
                     child: Container(
                       decoration: BoxDecoration(
                           image: DecorationImage(
-                              image: AssetImage('assets/light-1.png'))),
+                              image: AssetImage('assets/images/light-1.png'))),
                     ),
                   ),
                   Positioned(
@@ -59,7 +57,7 @@ class _AddUserState extends State<AddUser> {
                     child: Container(
                       decoration: BoxDecoration(
                           image: DecorationImage(
-                              image: AssetImage('assets/light-1.png'))),
+                              image: AssetImage('assets/images/light-1.png'))),
                     ),
                   ),
                   Positioned(
@@ -70,7 +68,7 @@ class _AddUserState extends State<AddUser> {
                     child: Container(
                       decoration: BoxDecoration(
                           image: DecorationImage(
-                              image: AssetImage('assets/clock.png'))),
+                              image: AssetImage('assets/images/clock.png'))),
                     ),
                   ),
                   Positioned(
